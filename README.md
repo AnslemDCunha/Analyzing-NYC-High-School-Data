@@ -1,7 +1,7 @@
 # Analysis of SAT Scores in New York City High Schools
 
 ### Project Overview
-
+ 
 This project conducts an in-depth analysis of SAT scores across high schools in New York City. By combining seven different datasets, including demographic information, class sizes, AP test results, and survey responses, this analysis aims to uncover the key factors that correlate with SAT performance. The SAT (Scholastic Aptitude Test) is a standardized test widely used for college admissions in the United States, making its fairness and the factors influencing its outcomes a critical area of study.
 
 This project serves as a practical example of a complete data analysis workflow, from cleaning and merging disparate data sources to exploratory data analysis and insight generation.
